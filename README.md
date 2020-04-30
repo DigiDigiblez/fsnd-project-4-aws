@@ -2,7 +2,7 @@
 
 ### Cluster Address
 
-* aeac32544bc4f11e9ae800e0db26f7bd-1514026131.us-west-2.elb.amazonaws.com
+* ad5c1a72e4b464d65aa9323c513beef0-1937103131.us-west-2.elb.amazonaws.com
 
 
 This is the project starter repo for the fourth course in the [Udacity Full Stack Nanodegree](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004): Server Deployment, Containerization, and Testing.
